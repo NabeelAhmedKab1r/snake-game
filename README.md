@@ -7,20 +7,20 @@ A fast, modern, neon-themed Snake game built in Python + Pygame — featuring sk
 
 ## 🎮 Features
 
-### 🌈 Neon Aesthetic
+### Neon Aesthetic
 - Gradient background  
 - Glowing grid  
 - Neon food animations  
 - Smooth neon particles on every eat  
 
-### 🚀 Gameplay
+### Gameplay
 - Classic snake movement with modern smoothness  
 - WASD + Arrow key support  
 - Difficulty modes: **Easy, Medium, Hard, Insane**  
 - Speed increases with your score  
 - Obstacle generation per difficulty  
 
-### 🛒 Shop System
+### Shop System
 - Unlockable Snake Skins:
   - Green (default)
   - Cyan
@@ -28,19 +28,19 @@ A fast, modern, neon-themed Snake game built in Python + Pygame — featuring sk
 - Double Coins Boost  
 - Persistent data saved locally (coins, skins, high scores)
 
-### ⭐ Special Food
+### Special Food
 - Appears every 20 seconds  
 - Rainbow animated  
 - +3 score / +3–5 coins  
 - Lasts for 3 seconds  
 
-### 💾 Save System
+### Save System
 - Coins  
 - High Score  
 - Owned skins  
 - Equipped skin  
 
-### 🧱 Modular Code Structure
+### Modular Code Structure
 All code is separated into clean modules:
 - `game.py`  
 - `snake.py`  
@@ -56,7 +56,7 @@ This keeps the project easy to expand, debug, and maintain.
 
 ---
 
-## 🕹 Controls
+## Controls
 
 | Key | Action |
 |-----|--------|
@@ -70,5 +70,5 @@ This keeps the project easy to expand, debug, and maintain.
 
 ---
 
-## 📂 Project Structure
+
 
