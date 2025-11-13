@@ -1,7 +1,9 @@
 # 🐍 Snake Neon  
 A fast, modern, neon-themed Snake game built in Python + Pygame — featuring skins, shop system, special food, particles, difficulty modes, and a clean modular architecture.
 
-<img src="images/menu.png" width="600">
+<p align="center">
+  <img src="images/menu.png" width="600">
+</p>
 
 ---
 
